@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Моя страница</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Привет! Я Дарья</h1>
+    <section>
+        <h2>Обо мне</h2>
+        <p>Я учусь на Айти и люблю изучать веб-разработку.</p>
+    </section>
+    <section>
+        <h2>Мои хобби</h2>
+        <ul>
+            <li>Чтение</li>
+            <li>Программирование</li>
+            <li>Рисование</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Контакты</h2>
+        <p>Email: daria@example.com</p>
+    </section>
+</body>
+</html>
